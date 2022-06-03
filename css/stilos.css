@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    
+    width: 100%;
+    background-position: center;
+   
+}
+.caja{
+    background-color: gray;
+    position: relative;
+    background-position: re;
+    bottom: 10px;
+    font-size: 60px;
+    margin: auto;
+    color: rgba(126, 224, 35, 0.904);
+    
+}
+.cajita1{
+    background: rgb(228, 224, 224);
+    text-align: center;
+}
+.img1{
+    height: 40vh;
+    width: 100%;
+    margin: auto;
+    background: url(http://187.216.164.109/~edc/moodle/pluginfile.php/1/theme_academi/slide1image/1630643581/pilares.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size:cover;
+    padding: 40px;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+}
+main{
+    width: 100%;
+    background-position: center;
+}
+.caja1{
+    background-color: gray;
+    position: relative;
+    background-position: re;
+    bottom: 10px;
+    font-size: 60px;
+    margin: auto;
+    color: rgba(126, 224, 35, 0.904);
+}
+.cajita2{
+    background: rgb(77, 75, 75);
+    text-align: center;
+    color: gold;
+}
+.img2{
+    height: 40vh;
+    width: 100%;
+    margin: auto;
+    background: url(https://pilares.cdmx.gob.mx/assets/images/ajedrez.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    padding: 30px;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+}
+.caja2{
+    background-color: gray;
+    position: relative;
+    background-position: re;
+    bottom: 10px;
+    font-size: 60px;
+    margin: auto;
+    color: rgba(126, 224, 35, 0.904);
+}
+.cajita3{
+    background: rgb(77, 75, 75);
+    text-align: center;
+    color: gold;
+}
+.img3{
+    height: 40vh;
+    width: 100%;
+    margin: auto;
+    background: url(https://www.capital21.cdmx.gob.mx/noticias/wp-content/uploads/2021/01/pilares_02.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    padding: 30px;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+}
+footer{
+    width: 100%;
+    background-position: center;
+}
+.caja3{
+    background-color: gray;
+    position: relative;
+    background-position: re;
+    bottom: 10px;
+    font-size: 60px;
+    margin: auto;
+    color: rgba(126, 224, 35, 0.904);
+}
+.img4{
+    height: 40vh;
+    width: 100%;
+    margin: auto;
+    background: url(http://187.216.164.109/~edc/moodle/pluginfile.php/1/theme_academi/slide1image/1630643581/pilares.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size:cover;
+    padding: 40px;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+}
